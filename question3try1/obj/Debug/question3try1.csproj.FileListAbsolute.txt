@@ -1,0 +1,7 @@
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\bin\Debug\question3try1.exe.config
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\bin\Debug\question3try1.exe
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\bin\Debug\question3try1.pdb
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\obj\Debug\question3try1.csprojResolveAssemblyReference.cache
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\obj\Debug\question3try1.exe
+C:\Users\samue\Desktop\advprogramming\question3try1\question3try1\obj\Debug\question3try1.pdb
